@@ -25,5 +25,5 @@ cd frontend
 ```
 **And then
 ```
-npm start
+npm start 
 ```
