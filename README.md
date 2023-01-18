@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-**Now run the following on terminal**
+**Now run the following on terminal** 
 ```
 cd frontend
 ```
